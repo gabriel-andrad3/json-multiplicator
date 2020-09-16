@@ -1,0 +1,362 @@
+{
+"productsServices": [
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019-10-15T00:00:00",
+"validityEnd": "2019-10-15T00:00:00",
+"productsCount": 10,
+"servicesCount": 10
+},
+{
+"productsServicesVersion": "1.12",
+"validityBegin": "2019
